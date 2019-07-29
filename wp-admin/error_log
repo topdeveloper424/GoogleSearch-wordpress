@@ -1,0 +1,5 @@
+[22-Jul-2019 23:57:29 UTC] PHP Warning:  sprintf(): Too few arguments in /home/peopleal/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 153
+[22-Jul-2019 23:57:44 UTC] PHP Warning:  sprintf(): Too few arguments in /home/peopleal/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 153
+[22-Jul-2019 23:57:58 UTC] PHP Warning:  sprintf(): Too few arguments in /home/peopleal/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 153
+[22-Jul-2019 23:58:27 UTC] PHP Warning:  sprintf(): Too few arguments in /home/peopleal/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 153
+[23-Jul-2019 00:01:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/peopleal/public_html/wp-content/themes/flatsome/inc/admin/envato_setup/envato_setup.php on line 1733
